@@ -1,0 +1,10 @@
+{
+  "priority": 2,
+  "title": "ChatBot Navi",
+  "shortDescription": "A web-based chatbot application that helps students answer school-related questions using keyword and FAQ-based responses. Built with chatbot logic, backend components, server configuration, MySQL database structure, cookies, sessions, and dynamic web pages.",
+  "cover": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?q=80&w=2006&auto=format&fit=crop",
+  "livePreview": "",
+  "githubLink": "https://github.com/BumanglagAyu/Websters-Nabi--CS312.git",
+  "type": "AI / Chatbot App",
+  "siteAge": "Academic Project"
+}

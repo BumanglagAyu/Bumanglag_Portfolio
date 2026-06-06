@@ -1,0 +1,10 @@
+{
+  "priority": 4,
+  "title": "Boggled Game Application",
+  "shortDescription": "A multiplayer word game application built with Java, MySQL, and CORBA. The project features real-time client-server interactions, server-side game state management, a user-friendly interface, and performance-focused server configuration.",
+  "cover": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?q=80&w=2070&auto=format&fit=crop",
+  "livePreview": "",
+  "githubLink": "https://github.com/BumanglagAyu/boggle",
+  "type": "Java Game App",
+  "siteAge": "Academic Project"
+}
